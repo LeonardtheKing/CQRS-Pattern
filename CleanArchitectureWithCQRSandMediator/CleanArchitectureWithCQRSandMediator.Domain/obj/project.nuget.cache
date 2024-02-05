@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vxS29udSNK6zAN7CGxQ4HBeZe379vCrcoM33Tmi/rTY2/WC4ozvjos+yZAGRan1wu5CC6jrVnAfuhKy3EMPt8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Izuchukwu.Okorie\\source\\repos\\CleanArchitectureWithCQRSandMediator\\CleanArchitectureWithCQRSandMediator.Domain\\CleanArchitectureWithCQRSandMediator.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Izuchukwu.Okorie\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Izuchukwu.Okorie\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Izuchukwu.Okorie\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
